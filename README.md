@@ -1,15 +1,29 @@
 # 📊 Dashboard Finanzas Personales
 
-Dashboard interactivo para el seguimiento de finanzas personales conectado con Notion.
+Dashboard interactivo **responsive** para el seguimiento de finanzas personales conectado con Notion.
 
 ## 🚀 Características
 
-- 📈 Visualización de ingresos, gastos, ahorros e inversiones
-- 🎯 Seguimiento de objetivos de inversión
-- 📊 Gráficos interactivos con Plotly
-- 🔄 Sincronización automática con base de datos de Notion
-- 💰 Cálculo de saldo en cuenta corriente
-- 📅 Análisis mensual y acumulado
+- 📈 **Visualización completa**: Ingresos, gastos, ahorros e inversiones
+- 🎯 **Seguimiento de objetivos**: Monitoreo de metas de inversión
+- 📊 **Gráficos interactivos**: Visualizaciones dinámicas con Plotly
+- 🔄 **Sincronización automática**: Conectado con base de datos de Notion
+- 💰 **Cálculo en tiempo real**: Saldo en cuenta corriente actualizado
+- 📅 **Análisis temporal**: Vistas mensual y acumulada
+- 📱 **Diseño responsive**: Optimizado para móviles, tablets y desktop
+- 🎨 **UX moderna**: Animaciones suaves y hover effects
+
+## 📱 Responsive Design
+
+✅ **Móvil** (< 768px): Layout adaptativo con métricas apiladas  
+✅ **Tablet** (768px - 1024px): Distribución optimizada en columnas  
+✅ **Desktop** (> 1024px): Aprovechamiento completo del espacio horizontal  
+
+### Características móviles:
+- Métricas reorganizadas automáticamente
+- Gráficos con márgenes optimizados
+- Tabla adaptativa con scroll horizontal
+- Sidebar compacto para pantallas táctiles
 
 ## 🛠️ Tecnologías
 
